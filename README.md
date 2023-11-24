@@ -60,9 +60,9 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ### Server output
-/home/sec/Desktop/serveroutput.png
+/home/sec/fwad/ex01/webserver/serveroutput.png
 ### Client output
-/home/sec/Downloads/clientoutput.png
+/home/sec/fwad/ex01/webserver/clientoutput.png
 
 ## RESULT:
 The program is executed succesfully
