@@ -60,9 +60,11 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ### Server output
-/home/sec/fwad/ex01/webserver/serveroutput.png
+file:///home/sec/Pictures/Screenshots/vhg.png![image](https://github.com/MANISHA21SS/webserver/assets/147474298/d0033006-5d48-4e95-9bd7-7a3e1b802202)
+
 ### Client output
-/home/sec/fwad/ex01/webserver/clientoutput.png
+![image](https://github.com/MANISHA21SS/webserver/assets/147474298/e2287c4e-cd81-421f-879c-dd49d78d42d9)
+
 
 ## RESULT:
 The program is executed succesfully
